@@ -191,6 +191,15 @@ Beyond simple “are they active recently?”, churn is primarily driven by *eng
 
 Holding other behaviors constant, faster progression to first cart is associated with a lower predicted probability of churn. Although the average marginal effect is modest at the population level, it is economically meaningful for the subset of users on the activation margin, validating activation speed as a causal driver rather than a mere correlation.
 
+Quantitatively, reducing the time to first cart from around 7 days to 2 days leads to a measurable (though modest) drop in average churn probability. This suggests that early progression in the funnel (moving from browsing to intent) is a key psychological commitment point. Users who delay their first cart action are more likely to remain in an exploratory, low-attachment state and eventually disengage.
+
+From a product perspective, this highlights the importance of:
+- Frictionless onboarding and discovery,
+- Strong first-session recommendations,
+- Early nudges (e.g., “Add to cart” prompts, personalized deals)
+
+to accelerate the moment of first intent and reduce long-term churn.
+
 **5. Behavioral Segmentation: Engagement vs Exploration**
 
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/f928902b-1cf8-41a3-8ec4-45bf585cac4b" />
